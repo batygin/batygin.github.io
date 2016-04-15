@@ -41,3 +41,8 @@ td {
   color: #999;
   display: block;
 }
+
+.ad {
+  border: 1px solid #ddd;
+  margin: 10px 0px;
+}
