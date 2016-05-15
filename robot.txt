@@ -1,2 +1,3 @@
 User-agent: *
-Disallow:
+Disallow: /project/
+Host: www.id-granik.github.io
